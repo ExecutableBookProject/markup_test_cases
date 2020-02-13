@@ -33,4 +33,5 @@ content/wealth_dynamics.md
 hidden: True
 ---
 content/heavy_tails.md
+content/kesten_processes.md
 ```
