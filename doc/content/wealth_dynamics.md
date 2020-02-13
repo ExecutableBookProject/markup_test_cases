@@ -426,9 +426,9 @@ indicating a rise in inequality.
 
 <!-- RST label -->
 
-```{image} htop_again.png
+```{image} images/htop_again.png
 ---
-scale: 80%
+scale: 80
 ---
 ```
 
