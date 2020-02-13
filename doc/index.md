@@ -25,4 +25,5 @@ maxdepth: 2
 caption: Contents
 ---
 examples.md
+content/wealth_dynamics.md
 ```
