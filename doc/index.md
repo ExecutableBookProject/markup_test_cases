@@ -27,3 +27,10 @@ caption: Contents
 examples.md
 content/wealth_dynamics.md
 ```
+
+```{toctree}
+---
+hidden: True
+---
+content/heavy_tails.md
+```
