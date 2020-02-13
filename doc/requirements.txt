@@ -1,3 +1,5 @@
 sphinx
 pyyaml
 https://github.com/chrisjsewell/mistletoe/archive/myst.zip
+# For ipython3 pygments lexer
+ipython
