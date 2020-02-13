@@ -21,15 +21,13 @@ project = 'myst'
 copyright = '2020, ebp'
 author = 'ebp'
 
-master_doc = 'index'
-
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    "mistletoe"
+    "myst_parser"
 ]
 
 # Add any paths that contain templates here, relative to this directory.

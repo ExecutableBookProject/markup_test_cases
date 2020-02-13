@@ -7,14 +7,11 @@ if you find any more.
 
 ## Installing the Myst parser
 
-To install the myst parser (and thus to be able to build these docs),
-run the following:
+Installation instructions can be found in the
+[`myst_parser` README](https://github.com/ExecutableBookProject/myst_parser#myst_parser)
 
-```bash
-git clone https://github.com/chrisjsewell/mistletoe
-cd mistletoe
-git checkout myst
-pip install .[sphinx,testing]
+```console
+pip install -e git+https://github.com/ExecutableBookProject/myst_parser.git#egg=myst_parser[sphinx,code_style,testing]
 ```
 
 This should install the myst fork of mistletoe, along with the Sphinx parser
@@ -27,7 +24,5 @@ Here are the site contents:
 maxdepth: 2
 caption: Contents
 ---
-wealth_dynamics_rst.rst
-wealth_dynamics_md.md
 examples.md
 ```
